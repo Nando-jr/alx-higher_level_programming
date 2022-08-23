@@ -4,3 +4,4 @@
 2-print.py: .py that prints string\
 3-print_number.py: using f-strings\
 4-print_float.py: prints stored float with precision\
+5-print_string.py: multipke string printing plus precision\
